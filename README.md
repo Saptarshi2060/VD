@@ -25,13 +25,15 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 
 ### Setup Instructions:
 
-1. **Create a GitHub repository** (if you haven't already):
+1. **Repository**: Already set up at [https://github.com/Saptarshi2060/VD](https://github.com/Saptarshi2060/VD)
+   
+   If you need to set up a new repository:
    ```bash
    git init
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git remote add origin https://github.com/Saptarshi2060/VD.git
    git push -u origin main
    ```
 
@@ -42,7 +44,7 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
    - The workflow will automatically deploy when you push to the `main` or `master` branch
 
 3. **Access your site**:
-   - Your site will be available at: `https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/`
+   - Your site will be available at: `https://Saptarshi2060.github.io/VD/`
    - The deployment happens automatically on every push to the main branch
 
 ### Manual Build (Optional):
