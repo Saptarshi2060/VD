@@ -6,6 +6,8 @@
 
 A beautiful 3D interactive Valentine's Day experience built with React, Three.js, and React Three Fiber.
 
+**Repository:** [https://github.com/Saptarshi2060/VD](https://github.com/Saptarshi2060/VD)
+
 View your app in AI Studio: https://ai.studio/apps/temp/1
 
 ## Run Locally
