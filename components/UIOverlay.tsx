@@ -50,7 +50,7 @@ const UIOverlay: React.FC<UIOverlayProps> = ({ stage, setStage }) => {
             Happy Valentines Day,<br/>bb (My little princess)
           </h2>
           <p className="text-rose-400 text-2xl font-light italic animate-pulse">
-            Will you be my Valentine — today, tomorrow, and always?
+            Will you be my Valentine? Today, Tomorrow, and Forever?
           </p>
           
           <div className="pt-10 flex gap-6 justify-center pointer-events-auto">
