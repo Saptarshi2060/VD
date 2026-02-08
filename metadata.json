@@ -1,0 +1,8 @@
+
+{
+  "name": "Valentine's Magical Gift",
+  "description": "An ultra-premium 3D interactive Valentine's experience featuring a magical gift box, miniature world, and emotional storytelling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
